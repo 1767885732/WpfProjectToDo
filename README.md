@@ -13,3 +13,9 @@ MyToDo.Shared：共享类库
 包含 DTO（数据传输对象）定义
 提供分页列表接口和实现
 定义 API 响应模型（ApiResponse）
+
+
+技术栈
+前端：WPF、Prism、MaterialDesignInXAML
+后端：ASP.NET Core Web API、Entity Framework Core
+数据库：SQLite
