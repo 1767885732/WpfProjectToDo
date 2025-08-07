@@ -1,0 +1,11 @@
+E:\c#study\WpfProjectToDo\MyToDo.Shared\bin\Debug\net8.0\MyToDo.Shared.deps.json
+E:\c#study\WpfProjectToDo\MyToDo.Shared\bin\Debug\net8.0\MyToDo.Shared.dll
+E:\c#study\WpfProjectToDo\MyToDo.Shared\bin\Debug\net8.0\MyToDo.Shared.pdb
+E:\c#study\WpfProjectToDo\MyToDo.Shared\obj\Debug\net8.0\MyToDo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#study\WpfProjectToDo\MyToDo.Shared\obj\Debug\net8.0\MyToDo.Shared.AssemblyInfoInputs.cache
+E:\c#study\WpfProjectToDo\MyToDo.Shared\obj\Debug\net8.0\MyToDo.Shared.AssemblyInfo.cs
+E:\c#study\WpfProjectToDo\MyToDo.Shared\obj\Debug\net8.0\MyToDo.Shared.csproj.CoreCompileInputs.cache
+E:\c#study\WpfProjectToDo\MyToDo.Shared\obj\Debug\net8.0\MyToDo.Shared.dll
+E:\c#study\WpfProjectToDo\MyToDo.Shared\obj\Debug\net8.0\refint\MyToDo.Shared.dll
+E:\c#study\WpfProjectToDo\MyToDo.Shared\obj\Debug\net8.0\MyToDo.Shared.pdb
+E:\c#study\WpfProjectToDo\MyToDo.Shared\obj\Debug\net8.0\ref\MyToDo.Shared.dll
